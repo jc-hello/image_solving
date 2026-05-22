@@ -6,7 +6,6 @@
 **Tài nguyên:**
 - Slide: https://canva.link/0pr0tdbflzwrbdn
 - Báo cáo: https://docs.google.com/document/d/13XY5e8ra5_PUJECvSd-fYpRaSwj6ZfnQvsHon2-FNd0/edit?usp=sharingw
-- Code gốc tham khảo: https://github.com/TVQuyet05/Adaptive_Oriented_Low_Pass_Filter.git
 
 ---
 
