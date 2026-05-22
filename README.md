@@ -48,14 +48,7 @@ image_solving/
 
 ## Hướng dẫn cài đặt
 
-### Bước 1 — Clone repository
-
-```bash
-git clone https://github.com/TVQuyet05/Adaptive_Oriented_Low_Pass_Filter.git
-cd image_solving
-```
-
-### Bước 2 — Tạo môi trường ảo (khuyến nghị)
+### Bước 1 — Tạo môi trường ảo (khuyến nghị)
 
 ```bash
 # Tạo venv
